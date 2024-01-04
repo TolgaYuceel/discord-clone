@@ -11,7 +11,7 @@ socket.io, Prisma, Tailwind, MySQL, React and Next14.
 
 ![ss-1](https://github.com/TolgaYuceel/discord-clone/assets/109863384/d92bba6a-18fc-412f-857b-7f2791f88272)
 ![ss-2](https://github.com/TolgaYuceel/discord-clone/assets/109863384/4012167a-ffba-4c80-9213-7f0e6ce12aca)
-![ss-3](https://github.com/TolgaYuceel/discord-clone/assets/109863384/fae0960d-99ac-4acc-846e-dcebce8961c9)
+![ss-3](https://github.com/TolgaYuceel/discord-clone/assets/109863384/0f684321-2921-4ebc-8458-37d53cbc2f1c)
 ![ss-4](https://github.com/TolgaYuceel/discord-clone/assets/109863384/6349583b-2acd-4c12-9252-d77045867f7e)
 ![create-channel-gif](https://github.com/TolgaYuceel/discord-clone/assets/109863384/14f53edf-51ba-4377-986b-3806cb3cac27)
 
