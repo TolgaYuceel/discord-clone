@@ -1,3 +1,27 @@
+## Discord Clone with Next.js
+- This clone project was developed using Next.js
+- Technologies used to develop the clone
+[Clerk](https://clerk.com/)
+[UploadThing](https://uploadthing.com/)
+[LiveKit](https://livekit.io/)
+[PlanetScale](https://planetscale.com/)
+socket.io, Prisma, Tailwind, MySQL, React and Next14.
+
+## Some screenshots of the project
+
+![ss-1](https://github.com/TolgaYuceel/discord-clone/assets/109863384/d92bba6a-18fc-412f-857b-7f2791f88272)
+![ss-2](https://github.com/TolgaYuceel/discord-clone/assets/109863384/4012167a-ffba-4c80-9213-7f0e6ce12aca)
+![ss-3](https://github.com/TolgaYuceel/discord-clone/assets/109863384/fae0960d-99ac-4acc-846e-dcebce8961c9)
+![ss-4](https://github.com/TolgaYuceel/discord-clone/assets/109863384/6349583b-2acd-4c12-9252-d77045867f7e) ![ss-5](https://github.com/TolgaYuceel/discord-clone/assets/109863384/a82d01af-7ccb-41d5-b9e5-a3f90cd71f3b)
+![create-channel-gif](https://github.com/TolgaYuceel/discord-clone/assets/109863384/14f53edf-51ba-4377-986b-3806cb3cac27)
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
